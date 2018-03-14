@@ -1,0 +1,22 @@
+{
+    "name": "npmpackagesrc",
+    "version": "1.0.0",
+    "description": "blah",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DMCChristopherOlsen/NpmPackageSrc.git"
+    },
+    "author": "Christopher Olsen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DMCChristopherOlsen/NpmPackageSrc/issues"
+    },
+    "homepage": "https://github.com/DMCChristopherOlsen/NpmPackageSrc#readme",
+    "devDependencies": {
+        "typescript": "^2.7.2"
+    }
+}
